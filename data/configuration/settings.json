@@ -1,0 +1,10 @@
+{
+  "navigation_mode": "EXPLORE",
+  "cpu_warning_threshold": 80.0,
+  "ram_warning_threshold": 80.0,
+  "disk_warning_threshold": 85.0,
+  "default_time_quantum": 2,
+  "job_timeout_seconds": 30,
+  "monitor_refresh_seconds": 1.0,
+  "database_filename": "kernel_city.db"
+}

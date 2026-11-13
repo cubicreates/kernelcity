@@ -1,0 +1,5 @@
+process,cpu_burst,memory_kb,priority
+Indexer,6,120,2
+LogParser,3,80,1
+Archiver,8,200,4
+Verifier,2,60,3
